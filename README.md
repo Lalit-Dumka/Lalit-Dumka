@@ -66,7 +66,7 @@
 
 <!-- [![Lalit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lalit-Dumka&hide=prs,issues&theme=gruvbox)](https://github.com/Lalit-Dumka/github-readme-stats) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lalit-Dumka&layout=compact&theme=gruvbox)](https://github.com/Lalit-Dumka/github-readme-stats) 
-<img src="https://github.com/Lalit-Dumka/Lalit-Dumka/blob/output/github-contribution-grid-snake.gif" width="700" />
+<img src="https://github.com/Lalit-Dumka/Lalit-Dumka/blob/output/github-contribution-grid-snake.svg" width="700" />
 
 <!-- <p align="center"> <img src="https://github.com/Lalit-Dumka/Lalit-Dumka/blob/output/github-contribution-grid-snake.gif" width="700" /> </p> -->
 

@@ -65,9 +65,9 @@
 ---
 
 <!-- [![Lalit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lalit-Dumka&hide=prs,issues&theme=gruvbox)](https://github.com/Lalit-Dumka/github-readme-stats) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lalit-Dumka&layout=compact&theme=gruvbox)](https://github.com/Lalit-Dumka/github-readme-stats) 
-<img src="https://github.com/Lalit-Dumka/Lalit-Dumka/blob/output/github-contribution-grid-snake.svg" width="700" />
-
-<!-- <p align="center"> <img src="https://github.com/Lalit-Dumka/Lalit-Dumka/blob/output/github-contribution-grid-snake.gif" width="700" /> </p> -->
+<p align="center"> <picture align = "center">
+  <img align = "center" alt="Top Lang." src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lalit-Dumka&layout=compact&theme=gruvbox">
+</picture> </p>
+<p align="center"> <img src="https://github.com/Lalit-Dumka/Lalit-Dumka/blob/output/github-contribution-grid-snake.svg" width="700" /> </p>
 
 <h3 align="center">Thank you for being here. Would love to interact😃 </h3>

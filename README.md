@@ -68,6 +68,10 @@
 <p align="center"> <picture align = "center">
   <img align = "center" alt="Top Lang." src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lalit-Dumka&layout=compact&theme=gruvbox">
 </picture> </p>
-<p align="center"> <img src="https://github.com/Lalit-Dumka/Lalit-Dumka/blob/output/github-contribution-grid-snake.svg" width="700" /> </p>
+<p align="center"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture></p>
 
 <h3 align="center">Thank you for being here. Would love to interact😃 </h3>

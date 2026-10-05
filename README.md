@@ -24,7 +24,7 @@
 
 ---
 <!-- Badges used from https://github.com/klaasnicolaas/ColoredBadges -->
-<h2 align="center">My Tech Stack 🧰</h2>
+<!-- <h2 align="center">My Tech Stack 🧰</h2>
 <p align="center">
 <a href="#">
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/languages/python.svg">
@@ -41,11 +41,11 @@
 <a href="#">
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/frameworks/bootstrap.svg">
 </a>
-</p>
+</p> -->
 
 ---
 
-<h2 align="center">My Tools :gear: </h2>
+<!-- <h2 align="center">My Tools :gear: </h2>
 <p align="center">
 <a href="#">
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/dev/tools/git.svg" alt="git" style="vertical-align:top; margin:4px">
@@ -60,14 +60,14 @@
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/tools/visualstudio.svg" alt="google_cloud_platform" style="vertical-align:top; margin:4px">
 </a>
 
-</p>
+</p> -->
 
 ---
 
 <!-- [![Lalit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lalit-Dumka&hide=prs,issues&theme=gruvbox)](https://github.com/Lalit-Dumka/github-readme-stats) -->
-<p align="center"> <picture align = "center">
+<!-- <p align="center"> <picture align = "center">
   <img align = "center" alt="Top Lang." src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lalit-Dumka&layout=compact&theme=gruvbox">
-</picture> </p>
+</picture> </p> -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Lalit-Dumka/Lalit-Dumka/blob/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Lalit-Dumka/Lalit-Dumka/blob/output/github-contribution-grid-snake.svg" />
